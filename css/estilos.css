@@ -1,0 +1,122 @@
+#recuadro{
+    margin: auto;
+    background-color: bisque;
+    height: 1000px;
+    width: 800px;
+}
+#orejaizq{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: maroon;
+    position: relative;
+    left: 450px;
+    top: 140px;
+}
+#orejadere{
+    width: 100px;
+    height: 100px;
+    background-color: maroon;
+    border-radius: 50px;
+    position: relative;
+    left: 270px;
+    top: 30px;
+}
+#cabeza{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgba(119, 68, 9, 0.651);
+    left: 300px;
+    position: relative;
+    display: inline-block;
+}
+#torso{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color: rgba(119, 68, 9, 0.651);
+    left: 250px;
+    position: relative;
+    
+}
+#torso1{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgba(224, 166, 41, 0.651);
+    left: 50px;
+    top: 50px;
+    position: relative;
+    
+}
+#brazo1{
+    width: 150px;
+    height: 90px;
+    border-radius: 150px;
+    background-color: maroon;
+    position: absolute;
+    left: 360px;
+    top: 460px;
+    transform: rotate(10deg);
+}
+#brazo2{
+    width: 150px;
+    height: 90px;
+    border-radius: 150px;
+    background-color: maroon;
+    position: absolute;
+    left: 750px;
+    top: 460px;
+    transform: rotate(180deg);
+}
+#brazo3{
+    width: 150px;
+    height: 90px;
+    border-radius: 150px;
+    background-color: maroon;
+    position: absolute;
+    left: 750px;
+    top: 670px;
+    transform: rotate(10deg);
+}
+#brazo4{
+    width: 150px;
+    height: 90px;
+    border-radius: 150px;
+    background-color: maroon;
+    position: absolute;
+    left: 370px;
+    top: 670px;
+    transform: rotate(160deg);
+}
+#cabeza1{
+    background-color: aquamarine;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    top: 30px;
+    left: 15px;
+    position: relative;
+    display: inline-block;
+}
+#cabeza2{
+    background-color: aquamarine;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    top: 30px;
+    left: 40px;
+    position: relative;
+    display: inline-block;
+}
+#cabeza3{
+    background-color: aquamarine;
+    width: 60px;
+    height: 60px;
+    border-radius: 35px;
+    top: 40px;
+    left: 70px;
+    position: relative;
+    display: inline-block;
+}
